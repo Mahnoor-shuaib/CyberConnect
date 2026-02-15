@@ -19,4 +19,6 @@ Since the flag was in plain text, it was immediately visible.
 
 ### Step 3: Capture the flag  
 Here is the flag as seen in the file:
+
+
 ![Flag in Notepad](flag.png)
