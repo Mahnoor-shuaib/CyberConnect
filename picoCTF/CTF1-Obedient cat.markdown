@@ -3,9 +3,10 @@
 **Category:** General Skills / Forensics  
 
 ---
+
 ## 📝 Description  
-> This file has a flag in plain sight (aka “in-the-clear”).  
-> A link is provided to access the file.
+This file has a flag in plain sight (aka “in-the-clear”).  
+A link is provided to access the file.
 
 ---
 
