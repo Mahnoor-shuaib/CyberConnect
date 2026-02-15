@@ -16,4 +16,4 @@ The **Cyber Connect Fellowship Program** is a 100-day journey designed to help p
 
 - **Name:** Mahnoor Shuaib
 - **GitHub:** [@Mahnoor-shuaib](https://github.com/Mahnoor-shuaib)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/mahnoor-shuaib-46ba59327/)
+- **LinkedIn:** [Mahnoor Shuaib](https://www.linkedin.com/in/mahnoor-shuaib-46ba59327/)
