@@ -11,3 +11,9 @@ This repository contains all my work, progress, tasks, and write-ups completed d
 The **Cyber Connect Fellowship Program** is a 100-day journey designed to help participants build strong foundations in cybersecurity through hands-on learning, CTF challenges, networking concepts, and practical tasks.
 
 ---
+
+# 📬 Connect With Me
+
+- **Name:** Mahnoor Shuaib
+- **GitHub:** [@Mahnoor-shuaib](https://github.com/Mahnoor-shuaib)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/mahnoor-shuaib-46ba59327/)
