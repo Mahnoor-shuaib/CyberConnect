@@ -22,3 +22,9 @@ Here is the flag as seen in the file:
 
 
 ![Flag in Notepad](flag.png)
+
+
+---
+
+## 🙏 Credits  
+Thanks to **CyberConnect** for hosting weekly Monday CTFs to help us improve our CTF skills.
