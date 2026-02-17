@@ -21,7 +21,7 @@ By downloading the file, we see 1 page dicument having content that might look i
 I checked those by copying and pasting them to other medium sach as Notepad but it was nothing 
 Example: Copy pasting the first Balck line gives: Aenean lacinia bibendum nulla sed consectetur
 
-![Confidential.pdf](quickstory.png)
+![Confidential.pdf](quickStory.png)
 
 we will check the metadata of this PDF file by exitfool command.
 
