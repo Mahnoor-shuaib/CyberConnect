@@ -21,23 +21,23 @@ By downloading the file, we see 1 page dicument having content that might look i
 I checked those by copying and pasting them to other medium sach as Notepad but it was nothing 
 Example: Copy pasting the first Balck line gives: Aenean lacinia bibendum nulla sed consectetur
 
-![Flag in Notepad](flag.png)
+![Confidential.pdf](quickstory.png)
+
 we will check the metadata of this PDF file by exitfool command.
 
 Download the PDF file in Linux by wget https://challenge-files.picoctf.net/c_amiable_citadel/3f00b89eeac6ac5242f747889ea4de24c804d9144cfa71e23d754e6a8e80e435/confidential.pdf
 
-![Flag in Notepad](flag.png)
+![Download in Linux Terminal](download.png)
 
 check the metadata of this PDF file by: exitfool confidential.pdf
 
-![Flag in Notepad](flag.png)
+![Check Metadata](exitfool.png)
 
 This gives us the encoded text at the Author tag
 cGljb0NURntwdXp6bDNkX20zdGFkYXRhX2YwdW5kIV9jOTk5ZTJhNH0= and the = indicates that it is base64 encoded text.
 
 Decoding this text at CyberChef website by choosing From base64 then we get the flag
-
-
+![Final Flag](CyberChef.png)
 
 ---
 
