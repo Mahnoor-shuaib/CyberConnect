@@ -10,12 +10,13 @@ Find the PDF file here Hidden Confidential Document and uncover the flag within 
 
 ---
 
+### Solution
+
+---
+
 ### Step 1: Download the file  
 Download the pdf file and uncover the flag within the metadata.
 
-
-### Solution
----
 By downloading the file, we see 1 page dicument having content that might look important but is no becuase there are some black lines to cover some words.
 
 I checked those by copying and pasting them to other medium sach as Notepad but it was nothing 
